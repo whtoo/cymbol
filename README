@@ -1,1 +1,6 @@
 An implementation of Terence Parr's Cymbol language.
+===================================================
+Revised
+1. add local lib with antlr-4.8
+2. change build script for easy building.
+3. replace outdated api with new one.
